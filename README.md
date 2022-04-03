@@ -1,1 +1,2 @@
 # RANDOM-FOREST-REGRESSION-FROM-SCRATCH-
+This project focuses on implementing algorithms for decision trees and random forest for regression problem — without using machine learning libraries such as Scikit-learn. The dataset for the analysis (Housing Price) has been split into training and test datasets. The task is to build decision tree and random forest algorithms with the training dataset and then apply the machine learning models on the test dataset to generate predictions.
